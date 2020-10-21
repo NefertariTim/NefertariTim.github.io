@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NefertariTim の 部落阁</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-10-21T14:35:47.156Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>NefertariTim</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/2020/10/21/test/"/>
+    <id>http://example.com/2020/10/21/test/</id>
+    <published>2020-10-21T14:20:59.000Z</published>
+    <updated>2020-10-21T14:35:47.156Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/1/1.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/1/1.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="wang" scheme="http://example.com/tags/wang/"/>
+    
+  </entry>
+  
+</feed>
