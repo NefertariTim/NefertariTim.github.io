@@ -2,28 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://tgdd.gitee.io/blogs/2020/10/22/cmd/</loc>
+    <loc>http://blogs.fly128.top/2020/10/22/cs/</loc>
     
     <lastmod>2020-10-22</lastmod>
     
   </url>
   
   <url>
-    <loc>http://tgdd.gitee.io/blogs/tags/index.html</loc>
+    <loc>http://blogs.fly128.top/2020/10/22/cmd/</loc>
     
     <lastmod>2020-10-22</lastmod>
     
   </url>
   
   <url>
-    <loc>http://tgdd.gitee.io/blogs/categories/index.html</loc>
+    <loc>http://blogs.fly128.top/tags/index.html</loc>
     
     <lastmod>2020-10-22</lastmod>
     
   </url>
   
   <url>
-    <loc>http://tgdd.gitee.io/blogs/archives/index.html</loc>
+    <loc>http://blogs.fly128.top/categories/index.html</loc>
+    
+    <lastmod>2020-10-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blogs.fly128.top/archives/index.html</loc>
     
     <lastmod>2020-10-22</lastmod>
     
@@ -31,13 +38,48 @@
   
 
   <url>
-    <loc>http://tgdd.gitee.io/blogs</loc>
+    <loc>http://blogs.fly128.top/</loc>
     <lastmod>2020-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://blogs.fly128.top/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.fly128.top/tags/%E6%96%87%E6%9C%AC/</loc>
+    <lastmod>2020-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://blogs.fly128.top/categories/%E5%88%86%E7%B1%BB1/</loc>
+    <lastmod>2020-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.fly128.top/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/</loc>
+    <lastmod>2020-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogs.fly128.top/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/%E5%88%86%E7%B1%BB3/</loc>
+    <lastmod>2020-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>

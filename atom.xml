@@ -3,11 +3,11 @@
   <title>NefertariTim の 部落阁</title>
   
   
-  <link href="http://tgdd.gitee.io/blogs/atom.xml" rel="self"/>
+  <link href="http://blogs.fly128.top/atom.xml" rel="self"/>
   
-  <link href="http://tgdd.gitee.io/blogs/"/>
-  <updated>2020-10-22T06:39:54.136Z</updated>
-  <id>http://tgdd.gitee.io/blogs/</id>
+  <link href="http://blogs.fly128.top/"/>
+  <updated>2020-10-22T11:46:33.669Z</updated>
+  <id>http://blogs.fly128.top/</id>
   
   <author>
     <name>NefertariTim</name>
@@ -17,24 +17,45 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>cmd</title>
-    <link href="http://tgdd.gitee.io/blogs/2020/10/22/cmd/"/>
-    <id>http://tgdd.gitee.io/blogs/2020/10/22/cmd/</id>
+    <title>cs</title>
+    <link href="http://blogs.fly128.top/2020/10/22/cs/"/>
+    <id>http://blogs.fly128.top/2020/10/22/cs/</id>
+    <published>2020-10-22T11:46:33.000Z</published>
+    <updated>2020-10-22T11:46:33.669Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试博客</title>
+    <link href="http://blogs.fly128.top/2020/10/22/cmd/"/>
+    <id>http://blogs.fly128.top/2020/10/22/cmd/</id>
     <published>2020-10-22T06:28:48.000Z</published>
-    <updated>2020-10-22T06:39:54.136Z</updated>
+    <updated>2020-10-22T11:45:56.306Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/1.jpg" alt="1"></p><p>bbbbs</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="主标题"><a href="#主标题" class="headerlink" title="主标题"></a>主标题</h1><h3 id="1-代码块"><a href="#1-代码块" class="headerlink" title="1-代码块"></a>1-代码块</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> urllib</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> reang(<span class="number">1</span>,<span class="number">9</span>):</span><br><span class="line">    <span class="keyword">if</span> i &gt; <span class="number">3</span>:</span><br><span class="line">        print(i)</span><br></pre></td></tr></table></figure><h3 id="2-第二个"><a href="#2-第二个" class="headerlink" title="2-第二个"></a>2-第二个</h3><p>网络图片</p><p><img src="https://img.ivsky.com/img/tupian/pre/201401/12/319475_88527.jpg"></p><h3 id="3-测试表格"><a href="#3-测试表格" class="headerlink" title="3-测试表格"></a>3-测试表格</h3><table><thead><tr><th>第一行</th><th>第二行</th><th>第三行</th></tr></thead><tbody><tr><td>1</td><td>2</td><td>1</td></tr><tr><td>1</td><td>13</td><td>3</td></tr><tr><td>3</td><td>2</td><td>3</td></tr></tbody></table><h1 id="第二个标题"><a href="#第二个标题" class="headerlink" title="第二个标题"></a>第二个标题</h1><p>是</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/1.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;bbbbs&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;主标题&quot;&gt;&lt;a href=&quot;#主标题&quot; class=&quot;headerlink&quot; title=&quot;主标题&quot;&gt;&lt;/a&gt;主标题&lt;/h1&gt;&lt;h3 id=&quot;1-代码块&quot;&gt;&lt;a href=&quot;#1-代码块&quot; class=&quot;headerlink&quot; title=&quot;1-代码块&quot;&gt;&lt;/a&gt;</summary>
       
     
     
     
+    <category term="分类1" scheme="http://blogs.fly128.top/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+    <category term="分类2" scheme="http://blogs.fly128.top/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/"/>
+    
+    <category term="分类3" scheme="http://blogs.fly128.top/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/%E5%88%86%E7%B1%BB3/"/>
+    
+    
+    <category term="测试" scheme="http://blogs.fly128.top/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="文本" scheme="http://blogs.fly128.top/tags/%E6%96%87%E6%9C%AC/"/>
     
   </entry>
   
