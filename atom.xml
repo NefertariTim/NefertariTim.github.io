@@ -6,7 +6,7 @@
   <link href="http://tgdd.gitee.io/blogs/atom.xml" rel="self"/>
   
   <link href="http://tgdd.gitee.io/blogs/"/>
-  <updated>2020-10-21T14:35:47.156Z</updated>
+  <updated>2020-10-22T06:39:54.136Z</updated>
   <id>http://tgdd.gitee.io/blogs/</id>
   
   <author>
@@ -17,25 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://tgdd.gitee.io/blogs/2020/10/21/test/"/>
-    <id>http://tgdd.gitee.io/blogs/2020/10/21/test/</id>
-    <published>2020-10-21T14:20:59.000Z</published>
-    <updated>2020-10-21T14:35:47.156Z</updated>
+    <title>cmd</title>
+    <link href="http://tgdd.gitee.io/blogs/2020/10/22/cmd/"/>
+    <id>http://tgdd.gitee.io/blogs/2020/10/22/cmd/</id>
+    <published>2020-10-22T06:28:48.000Z</published>
+    <updated>2020-10-22T06:39:54.136Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/1/1.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/1.jpg" alt="1"></p><p>bbbbs</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/1/1.jpg&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/1.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;bbbbs&lt;/p&gt;
 </summary>
       
     
     
     
-    
-    <category term="wang" scheme="http://tgdd.gitee.io/blogs/tags/wang/"/>
     
   </entry>
   
