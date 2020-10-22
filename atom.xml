@@ -3,11 +3,11 @@
   <title>NefertariTim の 部落阁</title>
   
   
-  <link href="https://tgdd.gitee.io/atom.xml" rel="self"/>
+  <link href="http://tgdd.gitee.io/atom.xml" rel="self"/>
   
-  <link href="https://tgdd.gitee.io/"/>
+  <link href="http://tgdd.gitee.io/"/>
   <updated>2020-10-21T14:35:47.156Z</updated>
-  <id>https://tgdd.gitee.io/</id>
+  <id>http://tgdd.gitee.io/</id>
   
   <author>
     <name>NefertariTim</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="https://tgdd.gitee.io/2020/10/21/test/"/>
-    <id>https://tgdd.gitee.io/2020/10/21/test/</id>
+    <link href="http://tgdd.gitee.io/2020/10/21/test/"/>
+    <id>http://tgdd.gitee.io/2020/10/21/test/</id>
     <published>2020-10-21T14:20:59.000Z</published>
     <updated>2020-10-21T14:35:47.156Z</updated>
     
@@ -35,7 +35,7 @@
     
     
     
-    <category term="wang" scheme="https://tgdd.gitee.io/tags/wang/"/>
+    <category term="wang" scheme="http://tgdd.gitee.io/tags/wang/"/>
     
   </entry>
   
